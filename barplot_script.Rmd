@@ -1,0 +1,25 @@
+---
+title: "Script para _barplotear_"
+author: "Alex LlanesQ"
+date: "_Enero 26, 2020_"
+output: html_document
+---
+
+***Este es mi primer archivo de Rmarkdown y aqui muestro un script sencilo para graficar los reads contenidos en tres genotecas.***
+
+***Primero se cargan los datos.***
+
+```{r}
+seq_reads <- read.delim("../data/reads.txt")
+```
+
+***Luego se hace el grafico con la funcion barplot.***
+
+```{r}
+barplot(seq_reads$nreads, names.arg = seq_reads$Library, 
+        xlab = "Libraries", ## nombre del eje X
+        ylab = "reads", ## nombre del eje y
+        col = c("blue", "orange", "red")) ## colores llamativos y artisticos
+```
+
+
