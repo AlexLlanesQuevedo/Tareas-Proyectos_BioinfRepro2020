@@ -1,1 +1,1 @@
-# Tareas_BioinfRepro2020_AlexLlanesQuevedo
+# Tareas de la asignatura Introducción a la bioinformática e investigación reproducible para análisis genéticos
