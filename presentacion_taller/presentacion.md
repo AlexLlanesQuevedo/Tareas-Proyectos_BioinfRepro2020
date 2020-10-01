@@ -1,10 +1,10 @@
 # PhD project: "Disentangling the Evolutionary History of Lowland Birds of the Isthmus of Tehuantepec by Integrating Genomic, Ecological, and Biogeographic Information".
 
-For approaching the historical processes that have determined the distribution of the lineages of lowland birds with no apparent physical barrier to genetic flow.
+## For approaching the historical processes that have determined the distribution of the lineages of lowland birds with no apparent physical barrier to genetic flow.
   
 **Research questions:**
-1) Is there spatial and temporal congruence between the elements that have led to the diversification of lowland birds in Mexico in IT?
-2) What is the current genetic dynamics of the contact areas between the populations of these species?
+## 1) Is there spatial and temporal congruence between the elements that have led to the diversification of lowland birds in Mexico in IT?
+## 2) What is the current genetic dynamics of the contact areas between the populations of these species?
 
 **Main objectives:**
 
@@ -18,8 +18,8 @@ For approaching the historical processes that have determined the distribution o
 
 **Study systems:**
 ![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/3tax.png)
-Six taxa distributed along the Isthmus of Tehuantepec with morphological and bioacustic divergence. For these species have been described several subspecies or morphotypes in the area of the TI. These species also represent phylogenetic and ecological diversity.
-
+## Six taxa distributed along the Isthmus of Tehuantepec with morphological and bioacustic divergence. For these species have been described several subspecies or morphotypes in the area of the TI. These species also represent phylogenetic and ecological diversity.
+![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/melanerpes_var.png)
 
 
 
