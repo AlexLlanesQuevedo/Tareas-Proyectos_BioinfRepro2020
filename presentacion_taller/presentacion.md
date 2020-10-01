@@ -22,7 +22,7 @@
 
 ## The tangled evolutionary history of the Mesoamerican Velazquez Woodpecker complex (Centurus santacruzi, Aves: Picidae) revealed by using Next Generation Sequencing data
 
-##### The Velazquez woodpecker *Centurus santacruzi* (Aves: Picidae) is a polytypic species distributed from the center-east regions of Mexico to North Nicaragua and Honduras islands. The ample morphological differentiation throughout its distribution has provoked the taxonomic recognition of several subspecies grouped in three main groups (*santacruzi*, *dubius* and *polygrammus*). Previous molecular studies have shown the close phylogenetic relationship of this complex with the Golden-fronted woopecker (*C. aurifrons*) and the Red-bellied woodpecker (*C. carolinus*); however, they fail to fully-resolve the evolutionary relationships among the subspecies. 
+##### The Velazquez woodpecker *Centurus santacruzi* (Aves: Picidae) is a polytypic species distributed from the center-east regions of Mexico to North Nicaragua and Honduras islands. The ample morphological differentiation throughout its distribution has provoked the taxonomic recognition of several subspecies grouped in three main groups (*santacruzi*, *dubius* and *polygrammus*).  
 
 ##### We employed Next Generation Sequencing methods (NextRAD) for analyzing the genetic diversity and structure within the morphotypes of the complex, and the correspondence of this variation with geography and ecology. We also inferred the phylogenetic relationships and hybridization among Velazquez, Golden-fronted, and Red-bellied woodpeckers by using Maximum Likelihood and Bayesian methods.
 
