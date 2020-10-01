@@ -41,7 +41,7 @@
 ![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/final.png)
 
 ##### For evaluating the extant and directionality of hybridization events among taxa we employed and compared three different approaches including Maximum Likelihood and Bayesian inference: Patterson’s D tests, Phylonet and TreeMix analyses. 
-!()[https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/mapt3.png]
+![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/mapt3.png)
 
 
 
