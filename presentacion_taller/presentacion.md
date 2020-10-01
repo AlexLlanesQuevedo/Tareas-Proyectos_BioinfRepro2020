@@ -17,7 +17,7 @@
 
 **Study systems:**
 ![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/3tax.png)
-##### Five taxa distributed along the Isthmus of Tehuantepec with morphological, coloration and bioacustic divergence. For these species have been described several subspecies or morphotypes in the area of the TI. These species also represent phylogenetic and ecological diversity.
+##### Five taxa distributed along the Isthmus of Tehuantepec with divergence in coloration pattern and morphological0 and bioacustic traits. For these species have been described several subspecies or morphotypes in the area of the TI. These species also represent phylogenetic and ecological diversity.
 ![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/melanerpes_var.png)
 
 ## The tangled evolutionary history of the Mesoamerican Velazquez Woodpecker complex (Centurus santacruzi, Aves: Picidae) revealed by using Next Generation Sequencing data
