@@ -1,6 +1,5 @@
 # PhD project: "The evolutionary history of the birds of the lowlands of the Tehuantepec isthmus seen from the integration of genomics, ecology and biogeography".
 
-##### For approaching the historical processes that have determined the distribution of the lineages of lowland birds with no apparent physical barrier to genetic flow.
   
 **Research questions:**
 ##### 1) Are the factors that have caused the differentiation of lowland birds in the TI spatially and temporally congruent?
@@ -18,7 +17,7 @@
 
 **Study systems:**
 ![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/3tax.png)
-##### Five taxa distributed along the Isthmus of Tehuantepec with morphological and bioacustic divergence. For these species have been described several subspecies or morphotypes in the area of the TI. These species also represent phylogenetic and ecological diversity.
+##### Five taxa distributed along the Isthmus of Tehuantepec with morphological, coloration and bioacustic divergence. For these species have been described several subspecies or morphotypes in the area of the TI. These species also represent phylogenetic and ecological diversity.
 ![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/melanerpes_var.png)
 
 ## The tangled evolutionary history of the Mesoamerican Velazquez Woodpecker complex (Centurus santacruzi, Aves: Picidae) revealed by using Next Generation Sequencing data
@@ -42,7 +41,7 @@
 ##### Phylogenetic analyses were performed by using Maximum Likelihood (ML) and Bayesian inference (BI) approaches with RAxML and MrBayes v3.2.5
 ![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/final.png)
 
-##### For evaluating the extant and directionality of hybridization events among taxa we employed and compared three different approaches including Maximum Likelihood and Bayesian inference: Patterson’s D tests, Phylonet and TreeMix analyses. 
+##### For evaluating the extant and direction of hybridization events among taxa we will employ and compare three different approaches including Maximum Likelihood and Bayesian inference: Patterson’s D tests, Phylonet and TreeMix analyses. 
 ![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/mapt3.png)
 
 
