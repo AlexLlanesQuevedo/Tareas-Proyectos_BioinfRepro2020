@@ -1,8 +1,11 @@
-My PhD project is titled "Disentangling the Evolutionary History of Lowland Birds of the Isthmus of Tehuantepec by Integrating Genomic Ecological and Biogeographic Information".
-With this project, we intend to approach the historical processes that have determined the distribution of the lineages that we currently see as differentiated entities, although there is no apparent physical barrier that limits their flow.
-We have selected six taxa distributed along the Isthmus of Tehuantepec and exhibit morphological and bioacustic divergence among others being described as subspecies or morphotypes. We have also selected these species for presenting phylogenetic and ecological diversity.
+**PhD project: "Disentangling the Evolutionary History of Lowland Birds of the Isthmus of Tehuantepec by Integrating Genomic, Ecological, and Biogeographic Information".**
 
-the selected taxa are:
+For approaching the historical processes that have determined the distribution of the lineages of lowland birds with no apparent physical barrier to genetic flow.
+
+![] (3tax.png)
+Six taxa distributed along the Isthmus of Tehuantepec with morphological and bioacustic divergence among others being described as subspecies or morphotypes. We have also selected these species for presenting phylogenetic and ecological diversity.
+
+
 
 
 
