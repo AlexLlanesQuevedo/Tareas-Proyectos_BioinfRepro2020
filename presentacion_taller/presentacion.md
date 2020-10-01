@@ -21,36 +21,27 @@
 ##### Six taxa distributed along the Isthmus of Tehuantepec with morphological and bioacustic divergence. For these species have been described several subspecies or morphotypes in the area of the TI. These species also represent phylogenetic and ecological diversity.
 ![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/melanerpes_var.png)
 
+##### The Velazquez woodpecker *Centurus santacruzi* (Aves: Picidae) is a polytypic species distributed from the center-east regions of Mexico to North Nicaragua and Honduras islands. The ample morphological differentiation throughout its distribution has provoked the taxonomic recognition of several subspecies grouped in three main groups (*santacruzi*, *dubius* and *polygrammus*). Previous molecular studies have shown the close phylogenetic relationship of this complex with the Golden-fronted woopecker (*C. aurifrons*) and the Red-bellied woodpecker (*C. carolinus*); however, they fail to fully-resolve the evolutionary relationships among the subspecies. 
+
+##### We employed Next Generation Sequencing methods (NextRAD) for analyzing the genetic diversity and structure within the morphotypes of the complex, and the correspondence of this variation with geography and ecology. We also inferred the phylogenetic relationships and hybridization among Velazquez, Golden-fronted, and Red-bellied woodpeckers by using Maximum Likelihood and Bayesian methods.
+
+##### We sampled and obtained Radseq sequences from 64 individuals of this species complex.
+![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/muestras.png)
+
+![](https://github.com/AlexLlanesQuevedo/santacruzi_project/blob/master/workflow.png)
+
+##### To explore spatial patterns of genetic structure in our study system we initially performed methods to infer clusters based on genetic similarity of each multilocus genotype: Principal Component Analysis and a Discriminant analysis  as implementd in packages SNPRelate v1.6.4 and “adegenet”, respectively. 
+![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/3pcas.png)
+
+##### To infer  the population structure and estimate individual admixture coefficients from the genotypic matrix we employed the LEA package  evaluating numbers of k from 1-6 with 20 repetitions of each one. The best number of populations (*K*) was inferred from the entropy criterion that evaluates the quality of fit of the statistical model to the data using a cross-validation technique  
+![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/numberK.png)
+![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/2.png)
+
+##### Phylogenetic analyses were performed by using Maximum Likelihood (ML) and Bayesian inference (BI) approaches with RAxML and MrBayes v3.2.5
+![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/final.png)
+
+##### For evaluating the extant and directionality of hybridization events among taxa we employed and compared three different approaches including Maximum Likelihood and Bayesian inference: Patterson’s D tests, Phylonet and TreeMix analyses. 
+!()[https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/mapt3.png]
 
 
-
-The Velazquez woodpecker *Centurus santacruzi* (Aves: Picidae) is a polytypic species distributed from the center-east regions of Mexico to North Nicaragua and Honduras islands. The ample morphological differentiation throughout its distribution has provoked the taxonomic recognition of several subspecies grouped in three main groups (*santacruzi*, *dubius* and *polygrammus*). Previous molecular studies have shown the close phylogenetic relationship of this complex with the Golden-fronted woopecker (*C. aurifrons*) and the Red-bellied woodpecker (*C. carolinus*); however, they fail to fully-resolve the evolutionary relationships among the subspecies. 
-
-So, we decided to employ Next Generation Sequencing methods (NextRAD) for analyzing the genetic diversity and structure within the morphotypes of the complex, and the correspondence of this variation with geography and ecology. We also want to infer the phylogenetic relationships and hybridization among Velazquez, Golden-fronted, and Red-bellied woodpeckers by using Maximum Likelihood and Bayesian methods.
-
-we sampled and obtained Radseq sequences from 64 individuals of this species complex.
-
-we evaluated NextRAD sequences quality and adapter content with FastQC . 
-
-Later, we filtered sequences according to Phred quality score and adapter content  with sliding-window function in Trimmomatic. 
-
-Subsequent filtering and clustering was performed in the assembly and analysis toolkit for restriction-site associated DNA, iPyrad (Eaton and Overcast, 2019). We assembled using the reported genome of *Centurus aurifrons* deposited in GenBank as reference. We produced different datasets with different parameter combinations, following recommendations in the ipyRAD documentation (Eaton & Overcast, 2020), to evaluate their performance in genetic analyses. Then, we choose the dataset produced with parameter settings that maximized the number of phylogenetically informative sites, while minimizing missing data and eliminating the potential for paralogous loci. 
-
-Output data was filtered to remove alleles with a population frequency of less than 5%, and individual and loci with more than 30% of missing data
-
-To explore spatial patterns of genetic structure in our study system we initially performed methods to infer clusters based on genetic similarity of each multilocus genotype: Principal Component Analysis and a Discriminant analysis  as implementd in packages SNPRelate v1.6.4 and “adegenet”, respectively. 
-
-For DAPC we used the function find.clusters to find the best number of K genetic clusters in unlinked SNP datasets for each clade. The lowest value of the Bayesian Information Criterion (BIC) statistic was used to detect the optimal number of K clusters. 
-
- to infer  the population structure and estimate individual admixture coefficients from the genotypic matrix we employed the LEA package  evaluating numbers of k from 1-6 with 20 repetitions of each one. The best number of populations (*K*) was inferred from the entropy criterion that evaluates the quality of fit of the statistical model to the data using a cross-validation technique  
-
-Phylogenetic analyses were performed by using Maximum Likelihood (ML) and Bayesian inference (BI) approaches with RAxML and MrBayes v3.2.5
-
-
-
-For evaluating the extant and directionality of hybridization events among taxa we employed and compared three different approaches including Maximum Likelihood and Bayesian inference: Patterson’s D tests, Phylonet: (Than et al. 2008) and TreeMix: (Pickrell & Pritchard 2012) analyses. 
-
-
-
-To complete this project, which would be the first chapter of my doctoral thesis, I would like to take advantage of this course to refine some analyzes, carry out some others that I still do not know how to do and improve my skills in R to make more beautiful and attractive graphics.
 
