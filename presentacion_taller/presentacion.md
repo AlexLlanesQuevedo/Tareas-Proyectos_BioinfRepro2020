@@ -1,4 +1,4 @@
-# PhD project: "The evolutionary history of the birds of the lowlands of the Tehuantepec isthmus seen from the integration of genomics, ecology and biogeography".
+# PhD project: "The evolutionary history of the lowlands birds of the Tehuantepec isthmus seen from the integration of genomics, ecology and biogeography".
 
   
 **Research questions:**
