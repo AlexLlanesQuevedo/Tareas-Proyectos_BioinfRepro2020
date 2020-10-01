@@ -17,7 +17,8 @@ For approaching the historical processes that have determined the distribution o
 4) to identify polymorphisms associated with candidate genes for local adaptation of the populations of the species to different environmental conditions
 
 **Study systems:**
-![Six taxa distributed along the Isthmus of Tehuantepec with morphological and bioacustic divergence. For these species have been described several subspecies or morphotypes in the area of the TI. These species also represent phylogenetic and ecological diversity.] (./3tax.png)  
+![](https://github.com/AlexLlanesQuevedo/Tareas-Proyectos_BioinfRepro2020/blob/master/presentacion_taller/3tax.png)
+Six taxa distributed along the Isthmus of Tehuantepec with morphological and bioacustic divergence. For these species have been described several subspecies or morphotypes in the area of the TI. These species also represent phylogenetic and ecological diversity.
 
 
 
