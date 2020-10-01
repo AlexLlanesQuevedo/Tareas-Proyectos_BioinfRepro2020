@@ -1,4 +1,4 @@
-# PhD project: "Disentangling the Evolutionary History of Lowland Birds of the Isthmus of Tehuantepec by Integrating Genomic, Ecological, and Biogeographic Information".
+# PhD project: "Disentangling the Evolutionary History of Lowland Birds of the Tehuantepec Isthmus by Integrating Genomic, Ecological, and Biogeographic Information".
 
 ##### For approaching the historical processes that have determined the distribution of the lineages of lowland birds with no apparent physical barrier to genetic flow.
   
