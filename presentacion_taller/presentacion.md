@@ -3,7 +3,7 @@
 ##### For approaching the historical processes that have determined the distribution of the lineages of lowland birds with no apparent physical barrier to genetic flow.
   
 **Research questions:**
-##### 1) Is there spatial and temporal congruence between the elements that have led to the diversification of lowland birds in Mexico in the IT?
+##### 1) Is there spatial and temporal congruence between the elements that have led to the diversification of lowland birds in the IT?
 ##### 2) What is the current genetic dynamics of the contact areas between the populations of these species?
 
 **Main objectives:**
